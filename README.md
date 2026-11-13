@@ -20,12 +20,6 @@ A aplicação busca reproduzir a dinâmica do Truco, trabalhando a organização
 
 ## ▶️ Como executar
 
-**1. Clone o repositório:**
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
 **2. Entre na pasta do projeto.**
 
 **3. Compile utilizando GCC:**
